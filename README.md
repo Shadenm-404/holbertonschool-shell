@@ -1,1 +1,3 @@
-permissions/0-iam_betty: switches current user to betty.
+# Shell, permissions
+
+This project contains scripts for learning shell permissions.
